@@ -18,5 +18,6 @@ Instalación (DESDE LA VENTANA DE COMANDOS)
      
      *matplotlib:      pip install matplotlib
      
-     
+
+Para correr el ejemplo es necesario descomprimir la carpeta train.zip, pues contiene el archivo train.csv que usa el notebook
       

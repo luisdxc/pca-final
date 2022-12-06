@@ -1,0 +1,22 @@
+Proyecto Final
+Luis Díaz Calvo
+
+
+Librerías necesarias para correr el notebook
+
+Instalación (DESDE LA VENTANA DE COMANDOS)
+
+     *numpy:           pip install numpy
+
+     *IPython:         pip install ipython
+     
+     *seaborn:         pip install seaborn
+     
+     *pandas:          pip install pandas
+     
+     *Sci-Kit Learn:   pip install -U scikit-learn
+     
+     *matplotlib:      pip install matplotlib
+     
+     
+      
